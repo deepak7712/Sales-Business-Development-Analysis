@@ -1,0 +1,13 @@
+Lead ID,Company,Industry,Lead Source,Interest Level,Deal Value (INR),Status,Follow-up Priority
+L001,TechNova Solutions,IT,LinkedIn,High,150000,Qualified,High
+L002,GreenLeaf Pvt Ltd,Agriculture,Referral,Medium,80000,Contacted,Medium
+L003,EduSpark,Education,LinkedIn,High,120000,Proposal,High
+L004,HealthPlus,Healthcare,Website,High,200000,Negotiation,High
+L005,RetailHub,Retail,Cold Outreach,Low,50000,Lost,Low
+L006,CloudMatrix,IT,LinkedIn,High,175000,Won,High
+L007,FinEdge,Finance,Referral,Medium,130000,Qualified,Medium
+L008,FoodFusion,Food,Website,Medium,75000,Contacted,Medium
+L009,AutoDrive,Automobile,LinkedIn,High,220000,Proposal,High
+L010,BuildSmart,Construction,Referral,Medium,100000,Negotiation,Medium
+L011,MediaWave,Media,Website,Low,60000,Lost,Low
+L012,SmartLearn,Education,LinkedIn,High,140000,Won,High
